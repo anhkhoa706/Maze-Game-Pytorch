@@ -1,6 +1,4 @@
-# maze_game_pytorch
 # Maze Game
-
 A simple interactive maze game built using Python and Tkinter. The game generates a random maze and allows a player to navigate from the starting position to the exit using buttons or arrow keys.
 
 ## Features

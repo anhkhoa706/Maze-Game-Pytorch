@@ -12,7 +12,7 @@ A simple interactive maze game built using Python and Tkinter. The game generate
 Ensure you have the following dependencies installed before running the game:
 
 ```
-pip install torch tkinter
+pip install -r requirements.txt
 ```
 
 ## How to Run
